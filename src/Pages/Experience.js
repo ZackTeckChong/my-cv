@@ -130,7 +130,7 @@ export default function Experience(){
 
 const itemData = [
     {
-      img: '/Pic/SIANG+TI+TEMPLE.PNG.jpg',
+      img: '/Pic/SIANGTITEMPLE.PNG.jpg',
       title: 'Cat Musuem',
       author: 'TIC',
       rows: 2,
@@ -148,7 +148,7 @@ const itemData = [
       author: 'TIC',
     },
     {
-      img: '/Pic/SKIH+TEMPLE.PNG.jpg',
+      img: '/Pic/SKIHTEMPLE.PNG.jpg',
       title: 'Sikh Temple',
       author: 'TIC',
       cols: 2,
